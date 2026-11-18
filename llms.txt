@@ -1,0 +1,16 @@
+# imaginarybit
+
+> Łukasz Huńczak: software architect and engineer for real-time media
+> systems: C++, GStreamer, FFmpeg, WebRTC and Qt.
+
+## Projects
+
+- [pipeline-monitor](https://imaginarybit.com/pipeline-monitor/): a GStreamer
+  tracer that shows a running pipeline live in the browser; demo recordings
+  open without installing. More: [its llms.txt](https://imaginarybit.com/pipeline-monitor/llms.txt)
+- [pipeline-monitor source and releases](https://github.com/imgbit/pipeline-monitor)
+  (LGPL-2.1-or-later; commercial license and support available)
+
+## Contact
+
+- [Contact](https://imaginarybit.com/#contact)

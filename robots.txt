@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imaginarybit.com/sitemap.xml
+Sitemap: https://imaginarybit.com/pipeline-monitor/sitemap.xml
